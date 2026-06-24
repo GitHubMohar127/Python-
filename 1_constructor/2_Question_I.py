@@ -25,4 +25,3 @@ class Book:
         print(f"Price : {self.price}")
 
 b1 = Book("kakababu", "Sunil Gnguly", 1200)
-# b1.Dispaly()

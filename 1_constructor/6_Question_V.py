@@ -20,6 +20,7 @@ class Student:
     def __init__(self, name, marks):
         self.name = name
         self.marks = marks
+        
         self.is_pass()
     
     def is_pass(self):
